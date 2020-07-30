@@ -1,0 +1,7 @@
+D:\dion\github\19.11.2789\fp\fp\bin\Debug\fp.exe.config
+D:\dion\github\19.11.2789\fp\fp\bin\Debug\fp.exe
+D:\dion\github\19.11.2789\fp\fp\bin\Debug\fp.pdb
+D:\dion\github\19.11.2789\fp\fp\obj\Debug\fp.csprojAssemblyReference.cache
+D:\dion\github\19.11.2789\fp\fp\obj\Debug\fp.csproj.CoreCompileInputs.cache
+D:\dion\github\19.11.2789\fp\fp\obj\Debug\fp.exe
+D:\dion\github\19.11.2789\fp\fp\obj\Debug\fp.pdb
